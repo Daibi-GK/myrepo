@@ -1,0 +1,50 @@
+.items {
+    font-family: Helvetica;
+    background-color: #272D33;
+    color: white;
+    font-size: 32px;
+    padding: 5px;
+}
+ 
+ 
+nav {
+    background-color: #272D33;
+    padding: 5px;
+    display: flex;
+    justify-content: space-around;
+}
+ 
+
+img {
+    width: 250px;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+}
+ 
+ 
+.items:hover {
+    background-color: gray;
+    opacity: 0.5;
+}
+ 
+ 
+a {
+    width: 20%;
+    text-align: center;
+    text-decoration: none;
+}
+
+h2 {
+    border: 5px solid rgb(28, 26, 26);
+    display: flex;
+    justify-content: center;
+}
+
+.Me {
+    display: flex;
+    justify-content: center;
+}
+ 
